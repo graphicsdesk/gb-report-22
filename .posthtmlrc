@@ -7,12 +7,79 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "A year after Columbia returned to in-person classes and campus life, reports of sexual assault increased by 137 percent and reports of sexual harassment increased by 94 percent, according to the Student Gender-Based Misconduct Prevention and Response 2021-2022 Annual Report. With the increase in reports, far more incidents of gender-based misconduct were left unresolved in 2021-22 than in previous years."
+          },
+          {
+            "type": "text",
+            "value": "The annual Gender-Based Misconduct Prevention and Response report, which the University published for the 2021-22 academic year on Thursday, provides insight into the University’s efforts to prevent and respond to incidents of sexual and gender-based violence. The annual report outlines every report filed with Student Conduct and Community Standards between July 1, 2021 and June 30, 2022."
+          },
+          {
+            "type": "text",
+            "value": "Reports of sexual assault, including Title IX sexual assault and what the annual report describes as “penetration,” “contact,” and “type not specified” sexual assault, all concerning known, affiliated complainants, totaled 147 for 2021-22, a 137 percent increase from the 62 reports filed the previous year. There were 44 reports of sexual assault involving a known, affiliated respondent, a 159 percent increase from the 17 reports filed in 2020-21."
+          },
+          {
+            "type": "text",
+            "value": "This year’s report indicates that incidents of sexual assault on campus are returning to and surpassing pre-pandemic numbers. During the 2018-19 academic year, there were 79 reports of sexual assault involving a known, affiliated complainant, and 40 involving a known, affiliated respondent. Prior to the 2020-21 annual report, the University did not report Title IX sexual assault incidents as part of a distinct category; sexual assault totals for years prior to 2020-21 include only “penetration,” “contact,” and “type not specified” sexual assault."
+          },
+          {
+            "type": "text",
+            "value": "The 2021-22 annual report indicates 64 incidents of sexual harassment and Title IX sexual harassment for known, affiliated complainants, an increase of over 100 percent from the 33 incidents reported in 2020-21. However, reports of sexual harassment still lag behind pre-pandemic numbers: 92 incidents were reported in 2019-20 and 73 in 2018-19."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "scrolly.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "This year, the duration of gender-based misconduct investigations decreased despite an uptick in reports. Fifty four percent of reports of gender-based misconduct that were fully investigated or resolved through an alternate resolution were resolved within 60 days and another 31 percent were resolved within 61 to 120 days. Just 8 percent of reports were resolved in 181 to 240 days. In 2020-21, 41 percent of cases were resolved within 181 to 240 days."
+          },
+          {
+            "type": "text",
+            "value": "The shorter investigation duration reported in this year’s annual report is likely related to the significant number of ongoing investigations, as duration is only reported for completed investigations. This year’s report indicates that investigations and disciplinary proceedings are currently ongoing for a staggering 94 reports of gender-based misconduct. The 2020-21 report indicated just five ongoing investigations, while the 2019-20 report listed 12 and the 2018-19 report listed 9."
+          },
+          {
+            "type": "text",
+            "value": "After ongoing investigations, the most common resolution listed in the 2021-22 report was “behavior described by the reporting individual did not meet the definition of a violation of the Gender-Based Misconduct Policy for Students; case referred to a partner office for adjudication and/or follow up,” with 17 reports falling under this category."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "alluvial.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The increase in gender-based misconduct that followed students’ return to campus occurred despite training and education efforts led by Sexual Violence Response. SVR’s outreach, which is detailed in each year’s Gender-Based Misconduct Prevention and Response report, included 342 programs which reached 14,355 students, faculty, staff, and community members. Programming included Sexual Assault Awareness Month events, such as the What Were You Wearing digital campaign in partnership with Fraternity and Sorority Life, in April."
+          },
+          {
+            "type": "text",
+            "value": "Student Conduct and Community Standards releases the annual report as a part of the University’s outreach and education efforts. The reasons listed in the report for this data include “to improve understanding of sexual assault and other gender-based misconduct at the University; to increase awareness of these reported incidents and their handling by the University; and to encourage discussion that helps to prevent gender-based misconduct and support the creation of a campus environment that promotes sexual respect.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>News Deputy Editor Stella Pagkas can be contacted at </i><a href=\"mailto:stella.pagkas@columbiaspectator.com\"><i>stella.pagkas@columbiaspectator.com</i></a><i>. Follow her on Twitter @</i><a href=\"http://twitter.com/stellapagkas\"><i>stellapagkas</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Deputy Editor Devon Campbell can be contacted at </i><a href=\"mailto:devon.campbell@columbiaspectator.com\"><i>devon.campbell@columbiaspectator.com</i></a><i>.</i>"
+          }
+        ],
+        "headline": "New gender-based misconduct report reveals uptick in sexual assault and harassment, record number of ongoing investigations",
+        "date": "October 25, 2022",
+        "byline1": "By <a href=\"https://www.columbiaspectator.com/contributors/Stella-Pagkas/\">Stella Pagkas</a>",
+        "byline2": "Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Devon-Campbell/\">Devon Campbell</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/4W2HXFQH35HOPBPASBGE5LY7AY.JPG",
+        "cover_caption": "Photo by Genevieve Depke",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1owPsiSFfpIgK7roa0jAssDSjWQEWtfIdwwl25ZGZq_g/edit"
       }
     }
   }

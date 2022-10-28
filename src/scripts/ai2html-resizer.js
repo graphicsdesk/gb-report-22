@@ -4,20 +4,27 @@
  */
 
 function resizer() {
+  console.log("resize");
   const elements = document.querySelectorAll('.g-artboard[data-min-width]');
+  console.log(elements);
   const widthById = {};
 
   elements.forEach(el => {
     const parent = el.parentNode;
-    const width = widthById[parent.id] || parent.getBoundingClientRect().width;
+    console.log(el.id);
+    //const width = widthById[parent.id] || parent.getBoundingClientRect().width;
+    const width = window.innerWidth;
     const minwidth = el.getAttribute('data-min-width');
     const maxwidth = el.getAttribute('data-max-width');
-
+    console.log(minwidth);
+    console.log(maxwidth);
     widthById[parent.id] = width;
-    if (+minwidth <= width && (+maxwidth >= width || maxwidth === null)) {
+    if (minwidth <= width && (maxwidth >= width || maxwidth === null)) {
       el.style.display = 'block';
+      console.log(el.style.display);
     } else {
       el.style.display = 'none';
+      console.log(el.style.display);
     }
   });
 }
@@ -25,7 +32,7 @@ function resizer() {
 // Export ai2html resizer initialization to page.js
 export default function () {
   // only want one resizer on the page
-  if (document.documentElement.classList.contains('g-resizer-v3-init')) return;
+  //if (document.documentElement.classList.contains('g-resizer-v3-init')) return;
   document.documentElement.classList.add('g-resizer-v3-init');
 
   resizer();
