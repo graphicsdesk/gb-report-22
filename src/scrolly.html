@@ -1,0 +1,180 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Scrollama: Sticky Side Example</title>
+    <meta name="description" content="Scrollama: Sticky Side Example" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.scss" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <style>
+    #scrolly {
+        position: relative;
+        padding: 1rem;
+      }
+    .anno{
+      font-size:14px;
+      font-family: 'Roboto', sans-serif;
+    }
+      .xlabel{
+        font-size:15px;
+        font-family: 'Roboto', sans-serif;
+      }
+      .ylabel{
+        font-size:15px;
+        font-family: 'Roboto', sans-serif;
+      }
+
+      article {
+        position: relative;
+        padding: 0;
+        max-width: 20rem;
+        margin: 0 auto;
+      }
+      
+      .tick{
+      font-size:14px;
+    }
+
+      .sticky-thing {
+        margin-top:5vh;
+        position: -webkit-sticky;
+        position: sticky;
+        left: 0;
+        width: 100%;
+        margin: 0;
+        z-index: 0;
+        top: 12.5vh;
+        height: 75vh;
+        /* Center everything inside */
+        align-items: center;
+        justify-content: center;
+      }
+
+
+
+      .sticky-thing p {
+        font-size: 8rem;
+        font-weight: 900;
+        color: #fff;
+      }
+
+      .step:first-child{
+        margin-top:0vh;
+      }
+      .step {
+        margin: 0;
+        margin-top:35vh;
+        margin-bottom:35vh;
+        margin-left:0;
+        margin-right:0;
+        color: #fff;
+        background-color: #fff;
+      }
+
+      .step:last-child {
+        margin-bottom: 0;
+      }
+
+      .step.is-active{
+        background-color: #fffcad;
+        color: #3b3b3b;
+      }
+
+      .step.is-active p{
+        background-color: #fffcad;
+        color: #3b3b3b;
+      }
+
+      .step p {
+        text-align: center;
+        padding: 1rem;
+        font-size: 17px;
+        background-color:#fff;
+        opacity:1;
+      }
+
+      #last{
+        opacity:0;
+      }
+
+      #twograf p:first-child{
+        margin-bottom:-3vh;
+      }
+
+      main{
+        margin-bottom:7.5vh;
+      }
+      
+      @media only screen and (max-width:849px) {
+      .step p{
+        font-size:14.5px;
+      }
+      }
+      @media only screen and (max-width:599px) {
+      .sticky-thing{
+        display:block;
+      }
+      }
+      @media only screen and (min-width:600px) {
+      .sticky-thing{
+        display:flex;
+      }
+
+      
+    }
+   
+    </style>
+  </head>
+
+  <body>
+    <main>
+
+      <section id="scrolly">
+        <div class="sticky-thing">
+          <include src="barchart.html"></include>
+        </div>
+
+        <article>
+          <div class="step" data-step="1">
+            <p>349 sexual assault and other gender-based misconduct reports were made against known, affiliated respondents in the 2021-22 school year.</p>
+          </div>
+          <div class="step" data-step="2">
+            <p>During the 2019-20 school year, 144 such reports were made. Last year, that number dropped to 44.</p>
+          </div>
+          <div class="step" data-step="3" id="twograf">
+            <p>Similar trends arise when looking at the total number of reports related to sexual assault or Title IX violations.</p>
+          </div>
+          <div class="step" data-step="4">
+            <p>In the 2021-22 academic year, 147 such reports were made. In 2020-2021, 62 reports. In 2019-2020, 83 reports.</p>
+          </div>
+          <div class="step" data-step="5">
+            <p>94 of these aforementioned reports are still subjects of ongoing investigations, and many more remain unresolved.</p>
+          </div>
+          <div class="step" data-step="6" id="last">
+            
+          </div>
+        </article>
+
+
+        
+
+        
+      </section>
+
+    </main>
+
+    <!-- <div class='debug'></div> -->
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://unpkg.com/scrollama"></script>
+    <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+    <script src="./scripts/ai2html-resizer.js"></script>
+    <script src="./scripts/scrollyscript.js"></script>
+    
+  </body>
+</html>
