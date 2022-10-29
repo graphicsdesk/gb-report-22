@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.2" baseProfile="tiny" id="g-barchart-300-layer-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 300 652.799" overflow="visible" xml:space="preserve">
+	 x="0px" y="0px" viewBox="0 0 300 688.896" overflow="visible" xml:space="preserve">
 <g>
 	<path fill="none" stroke="#CCCCCC" stroke-miterlimit="10" d="M0,489.558h292.87"/>
 	<path fill="none" stroke="#CCCCCC" stroke-miterlimit="10" d="M0.474,371.025H292.87"/>
 	<path fill="none" stroke="#CCCCCC" stroke-miterlimit="10" d="M0.474,253.356H292.87"/>
-	<g id="graybars_00000080171964111667582440000012203487882475166092_">
-		<g id="gray-600_00000072986761744912716170000014711890891940630682_">
+	<g id="graybars_00000043443694015816255330000002365601952778879125_">
+		<g id="gray-600_00000150803365187854874230000010671317502983094676_">
 			<path fill="#B5B3B9" d="M-1196.418,545.925v-47h195c1.105,0,2,0.895,2,2v43c0,1.105-0.895,2-2,2H-1196.418z"/>
 			<path fill="#B5B3B9" d="M-1196.418,433.925v-47h475c1.105,0,2,0.895,2,2v43c0,1.105-0.895,2-2,2H-1196.418z"/>
 			<path fill="#B5B3B9" d="M-1196.418,489.925v-47h65c1.104,0,2,0.895,2,2v43c0,1.105-0.896,2-2,2H-1196.418z"/>
 		</g>
-		<g id="gray-1200_00000137119565478146378330000016760955663384013455_">
+		<g id="gray-1200_00000151541461934415291320000013894673346766957977_">
 			<path fill="#B5B3B9" d="M-1325.136,1142.874v-76.204h316.164c1.791,0,3.243,1.452,3.243,3.243v69.718
 				c0,1.791-1.452,3.243-3.243,3.243H-1325.136z"/>
 			<path fill="#B5B3B9" d="M-1325.136,961.282v-76.204h770.143c1.791,0,3.243,1.452,3.243,3.243v69.718
@@ -20,7 +20,7 @@
 			<path fill="#B5B3B9" d="M-1325.136,1052.078v-76.204h105.388c1.791,0,3.243,1.452,3.243,3.243v69.718
 				c0,1.791-1.452,3.243-3.243,3.243H-1325.136z"/>
 		</g>
-		<g id="gray-300_00000030479134275702246670000000016279813021842852_">
+		<g id="gray-300_00000111894279587020843760000000391017150867991482_">
 			<path fill="#B5B3B9" d="M292.639,606.795h-76.204V438.08c0-0.956,1.452-1.73,3.243-1.73h69.718c1.791,0,3.243,0.775,3.243,1.73
 				V606.795z"/>
 			<path fill="#B5B3B9" d="M115.048,606.795H38.844V195.822c0-0.956,1.452-1.73,3.243-1.73h69.718c1.791,0,3.243,0.775,3.243,1.73
@@ -29,8 +29,8 @@
 				V606.795z"/>
 		</g>
 	</g>
-	<g id="middlebars_00000020363397841790992240000009264497626222618247_">
-		<g id="middle-600_00000174575991676989866660000008852389837734942616_">
+	<g id="middlebars_00000180365341799644199130000017670053208319903126_">
+		<g id="middle-600_00000062907425883780957000000012140561560672418238_">
 			<g>
 				<path fill="#B5838D" d="M-1196.417,433.925v-47h196.603c0.996,0,1.804,0.895,1.804,2v43c0,1.105-0.808,2-1.804,2H-1196.417z"/>
 			</g>
@@ -41,7 +41,7 @@
 				<path fill="#B5838D" d="M-1196.417,545.925v-47h111c1.104,0,2,0.895,2,2v43c0,1.105-0.896,2-2,2H-1196.417z"/>
 			</g>
 		</g>
-		<g id="middle-1200_00000068673734651851906690000012604993090694606779_">
+		<g id="middle-1200_00000028286553112168224790000010915813953612060839_">
 			<g>
 				<path fill="#B5838D" d="M-1325.134,961.282v-76.204h318.763c1.615,0,2.924,1.452,2.924,3.243v69.718
 					c0,1.791-1.309,3.243-2.924,3.243H-1325.134z"/>
@@ -55,7 +55,7 @@
 					c0,1.791-1.452,3.243-3.243,3.243H-1325.134z"/>
 			</g>
 		</g>
-		<g id="middle-300_00000028317295492502161410000009401690607073572234_">
+		<g id="middle-300_00000181069469522713010480000014177151822447939496_">
 			<g>
 				<path fill="#B5838D" d="M115.048,606.793H38.844V436.691c0-0.862,1.452-1.561,3.243-1.561h69.718
 					c1.791,0,3.243,0.699,3.243,1.561V606.793z"/>
@@ -70,8 +70,8 @@
 			</g>
 		</g>
 	</g>
-	<g id="redbars_00000121982585114950759310000016353673108950794910_">
-		<g id="red-600_00000048502301812600690770000011572455599661573041_">
+	<g id="redbars_00000125574738748047607660000011812292605879730844_">
+		<g id="red-600_00000051343714984427698640000004518781933106279343_">
 			<g>
 				<path fill="#E5989B" d="M-1196.417,433.925v-47h58.772c0.843,0,1.526,0.915,1.526,2.043v42.913c0,1.129-0.683,2.043-1.526,2.043
 					H-1196.417z"/>
@@ -83,7 +83,7 @@
 				<path fill="#E5989B" d="M-1196.417,545.925v-47h45c1.104,0,2,0.915,2,2.043v42.913c0,1.129-0.896,2.043-2,2.043H-1196.417z"/>
 			</g>
 		</g>
-		<g id="red-1200_00000017491340984106723920000018337849245197873081_">
+		<g id="red-1200_00000168089534229547067020000004218981152697410197_">
 			<g>
 				<path fill="#E5989B" d="M-1325.134,961.282v-76.204h95.29c1.367,0,2.475,1.483,2.475,3.313v69.577
 					c0,1.83-1.108,3.313-2.475,3.313H-1325.134z"/>
@@ -97,7 +97,7 @@
 					c0,1.83-1.452,3.313-3.243,3.313H-1325.134z"/>
 			</g>
 		</g>
-		<g id="red-300_00000150103858031764200820000015641861110961278864_">
+		<g id="red-300_00000110436478375421210250000007776527559920526493_">
 			<g>
 				<path fill="#E5989B" d="M115.048,606.793H38.844v-50.85c0-0.729,1.483-1.321,3.313-1.321h69.577c1.83,0,3.313,0.591,3.313,1.321
 					V606.793z"/>
@@ -112,8 +112,8 @@
 			</g>
 		</g>
 	</g>
-	<g id="redlegend_00000031893894816394679420000013637991078686245803_">
-		<g id="redlegend-600_00000084531937162841307550000010383522302553507242_">
+	<g id="redlegend_00000174585210133387056320000015394551685411225251_">
+		<g id="redlegend-600_00000181089725706482884670000006056738459799484836_">
 			<path fill="#E5989B" d="M-1239.151,324.659h-4.497c-2.017,0-3.652-1.635-3.652-3.652v-4.497c0-2.017,1.635-3.652,3.652-3.652
 				h4.497c2.017,0,3.652,1.635,3.652,3.652v4.497C-1235.499,323.025-1237.134,324.659-1239.151,324.659z"/>
 			<text transform="matrix(1 0 0 1 -1228.7351 323.1247)" font-family="'Roboto-Light'" font-size="12px">T</text>
@@ -213,7 +213,7 @@
 			<text transform="matrix(1 0 0 1 -1084.448 351.9245)" font-family="'Roboto-Light'" font-size="12px">t</text>
 			<text transform="matrix(1 0 0 1 -1080.5925 351.9245)" font-family="'Roboto-Light'" font-size="12px">s</text>
 		</g>
-		<g id="redlegend-1200_00000164504550192484583760000001940449468979698611_">
+		<g id="redlegend-1200_00000065036207066879733390000006423175752590742680_">
 			<path fill="#E5989B" d="M-1320.763,787.32h-7.633c-2.017,0-3.652-1.635-3.652-3.652v-7.633c0-2.017,1.635-3.652,3.652-3.652
 				h7.633c2.017,0,3.651,1.635,3.651,3.652v7.633C-1317.112,785.685-1318.747,787.32-1320.763,787.32z"/>
 			<text transform="matrix(1 0 0 1 -1308.5493 785.3774)" font-family="'Roboto-Light'" font-size="15.1895px">T</text>
@@ -313,7 +313,7 @@
 			<text transform="matrix(1 0 0 1 -1125.9126 821.8325)" font-family="'Roboto-Light'" font-size="15.1895px">t</text>
 			<text transform="matrix(1 0 0 1 -1121.0322 821.8325)" font-family="'Roboto-Light'" font-size="15.1895px">s</text>
 		</g>
-		<g id="redelegend-300_00000047742025649806727850000000788063123403620016_">
+		<g id="redelegend-300_00000085931065277314025620000007856537596565041322_">
 			<path fill="#E5989B" d="M15.628,98.682h-4.697c-2.017,0-3.652-1.635-3.652-3.652v-4.697c0-2.017,1.635-3.652,3.652-3.652h4.697
 				c2.017,0,3.652,1.635,3.652,3.652v4.697C19.28,97.047,17.645,98.682,15.628,98.682z"/>
 			<rect x="23.175" y="86.682" fill="none" width="117.884" height="69.559"/>
@@ -362,29 +362,29 @@
 				<text transform="matrix(1 0 0 1 103.1969 111.3482)" display="inline" font-family="'Roboto-Light'" font-size="12px">I</text>
 				<text transform="matrix(1 0 0 1 106.3902 111.3482)" display="inline" font-family="'Roboto-Light'" font-size="12px">X</text>
 				<text transform="matrix(1 0 0 1 113.732 111.3482)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
-				<text transform="matrix(1 0 0 1 23.1754 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 29.2516 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
-				<text transform="matrix(1 0 0 1 35.4508 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">x</text>
-				<text transform="matrix(1 0 0 1 41.2867 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">u</text>
-				<text transform="matrix(1 0 0 1 47.8785 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 54.3062 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">l</text>
-				<text transform="matrix(1 0 0 1 56.9957 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
-				<text transform="matrix(1 0 0 1 59.9137 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 66.3414 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 72.4176 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 78.4937 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 84.9215 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">u</text>
-				<text transform="matrix(1 0 0 1 91.5133 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">l</text>
-				<text transform="matrix(1 0 0 1 94.2027 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
-				<text transform="matrix(1 0 0 1 98.0582 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
-				<text transform="matrix(1 0 0 1 100.9762 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 107.4039 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">g</text>
-				<text transform="matrix(1 0 0 1 114.0602 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 120.4879 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">i</text>
-				<text transform="matrix(1 0 0 1 123.1773 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
-				<text transform="matrix(1 0 0 1 129.7691 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 135.8453 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
-				<text transform="matrix(1 0 0 1 139.7008 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 23.1754 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 29.2516 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 35.4508 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">x</text>
+				<text transform="matrix(1 0 0 1 41.2867 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">u</text>
+				<text transform="matrix(1 0 0 1 47.8785 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 54.3062 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">l</text>
+				<text transform="matrix(1 0 0 1 56.9957 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 59.9137 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 66.3414 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 72.4176 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 78.4937 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 84.9215 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">u</text>
+				<text transform="matrix(1 0 0 1 91.5133 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">l</text>
+				<text transform="matrix(1 0 0 1 94.2027 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 98.0582 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 100.9762 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 107.4039 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">g</text>
+				<text transform="matrix(1 0 0 1 114.0602 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 120.4879 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">i</text>
+				<text transform="matrix(1 0 0 1 123.1773 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
+				<text transform="matrix(1 0 0 1 129.7691 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 135.8453 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 139.7008 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
 				<text transform="matrix(1 0 0 1 23.1754 140.148)" display="inline" font-family="'Roboto-Light'" font-size="12px">k</text>
 				<text transform="matrix(1 0 0 1 29.0523 140.148)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
 				<text transform="matrix(1 0 0 1 35.6441 140.148)" display="inline" font-family="'Roboto-Light'" font-size="12px">o</text>
@@ -403,22 +403,22 @@
 				<text transform="matrix(1 0 0 1 95.943 140.148)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
 				<text transform="matrix(1 0 0 1 102.1422 140.148)" display="inline" font-family="'Roboto-Light'" font-size="12px">d</text>
 				<text transform="matrix(1 0 0 1 108.8102 140.148)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
-				<text transform="matrix(1 0 0 1 23.1754 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">r</text>
-				<text transform="matrix(1 0 0 1 27.2125 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
-				<text transform="matrix(1 0 0 1 33.4117 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 39.4879 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">p</text>
-				<text transform="matrix(1 0 0 1 46.1383 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">o</text>
-				<text transform="matrix(1 0 0 1 52.859 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
-				<text transform="matrix(1 0 0 1 59.4508 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">d</text>
-				<text transform="matrix(1 0 0 1 66.1187 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
-				<text transform="matrix(1 0 0 1 72.318 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
-				<text transform="matrix(1 0 0 1 78.9098 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
-				<text transform="matrix(1 0 0 1 82.7652 154.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 23.1754 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">r</text>
+				<text transform="matrix(1 0 0 1 27.2125 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 33.4117 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 39.4879 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">p</text>
+				<text transform="matrix(1 0 0 1 46.1383 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">o</text>
+				<text transform="matrix(1 0 0 1 52.859 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
+				<text transform="matrix(1 0 0 1 59.4508 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">d</text>
+				<text transform="matrix(1 0 0 1 66.1187 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 72.318 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
+				<text transform="matrix(1 0 0 1 78.9098 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 82.7652 154.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
 			</g>
 		</g>
 	</g>
-	<g id="middlelegend_00000024723135291129727540000016121007400767773629_">
-		<g id="middlelegend-600_00000085240017079774178400000003370466385122959271_">
+	<g id="middlelegend_00000103944030241761966590000013099173322248798374_">
+		<g id="middlelegend-600_00000066511579449526567930000004794353972803451536_">
 			<path fill="#B5838D" d="M-1040.966,324.659h-4.497c-2.017,0-3.652-1.635-3.652-3.652v-4.497c0-2.017,1.635-3.652,3.652-3.652
 				h4.497c2.017,0,3.651,1.635,3.651,3.652v4.497C-1037.315,323.025-1038.95,324.659-1040.966,324.659z"/>
 			<text transform="matrix(1 0 0 1 -1033.8245 323.1249)" font-family="'Roboto-Light'" font-size="12px">T</text>
@@ -481,7 +481,7 @@
 			<text transform="matrix(1 0 0 1 -910.385 337.5248)" font-family="'Roboto-Light'" font-size="12px">t</text>
 			<text transform="matrix(1 0 0 1 -906.5295 337.5248)" font-family="'Roboto-Light'" font-size="12px"> </text>
 		</g>
-		<g id="middlelegend-1200_00000140709608220596961790000006923807122839356575_">
+		<g id="middlelegend-1200_00000103953843179234305660000010868312420566996378_">
 			<path fill="#B5838D" d="M-1069.904,787.32h-7.633c-2.017,0-3.652-1.635-3.652-3.652v-7.633c0-2.017,1.635-3.652,3.652-3.652
 				h7.633c2.017,0,3.652,1.635,3.652,3.652v7.633C-1066.252,785.685-1067.887,787.32-1069.904,787.32z"/>
 			<text transform="matrix(1 0 0 1 -1061.8335 785.3784)" font-family="'Roboto-Light'" font-size="15.1895px">T</text>
@@ -544,7 +544,7 @@
 			<text transform="matrix(1 0 0 1 -905.5854 803.6059)" font-family="'Roboto-Light'" font-size="15.1895px">t</text>
 			<text transform="matrix(1 0 0 1 -900.7056 803.6059)" font-family="'Roboto-Light'" font-size="15.1895px"> </text>
 		</g>
-		<g id="middlelegend-300_00000026136687903030146800000000281174032126112918_">
+		<g id="middlelegend-300_00000029024060071552280410000012363783455915063986_">
 			<path fill="#B5838D" d="M161.348,98.682h-4.697c-2.017,0-3.652-1.635-3.652-3.652v-4.697c0-2.017,1.635-3.652,3.652-3.652h4.697
 				c2.017,0,3.652,1.635,3.652,3.652v4.697C165,97.047,163.365,98.682,161.348,98.682z"/>
 			<rect x="169.288" y="86.682" fill="none" width="120.57" height="39.186"/>
@@ -593,26 +593,26 @@
 				<text transform="matrix(1 0 0 1 249.3098 111.3482)" display="inline" font-family="'Roboto-Light'" font-size="12px">I</text>
 				<text transform="matrix(1 0 0 1 252.5031 111.3482)" display="inline" font-family="'Roboto-Light'" font-size="12px">X</text>
 				<text transform="matrix(1 0 0 1 259.8449 111.3482)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
-				<text transform="matrix(1 0 0 1 169.2883 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 175.3645 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
-				<text transform="matrix(1 0 0 1 181.5637 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">x</text>
-				<text transform="matrix(1 0 0 1 187.3996 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">u</text>
-				<text transform="matrix(1 0 0 1 193.9914 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 200.4192 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">l</text>
-				<text transform="matrix(1 0 0 1 203.1086 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
-				<text transform="matrix(1 0 0 1 206.0266 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 212.4543 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 218.5305 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 224.6067 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 231.0344 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">u</text>
-				<text transform="matrix(1 0 0 1 237.6262 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">l</text>
-				<text transform="matrix(1 0 0 1 240.3156 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
-				<text transform="matrix(1 0 0 1 244.1711 125.7476)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 169.2883 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 175.3645 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 181.5637 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">x</text>
+				<text transform="matrix(1 0 0 1 187.3996 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">u</text>
+				<text transform="matrix(1 0 0 1 193.9914 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 200.4192 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">l</text>
+				<text transform="matrix(1 0 0 1 203.1086 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 206.0266 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 212.4543 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 218.5305 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 224.6067 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 231.0344 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">u</text>
+				<text transform="matrix(1 0 0 1 237.6262 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">l</text>
+				<text transform="matrix(1 0 0 1 240.3156 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 244.1711 125.7477)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
 			</g>
 		</g>
 	</g>
-	<g id="graylegend_00000063615706856166147020000004272623210528776852_">
-		<g id="graylegend-600_00000097491978100261747320000009517915271192748208_">
+	<g id="graylegend_00000127041425318354372700000009668272137791599755_">
+		<g id="graylegend-600_00000164498915998352428880000001133183702440902069_">
 			<path fill="#B5B3B9" d="M-853.456,324.659h-4.497c-2.017,0-3.652-1.635-3.652-3.652v-4.497c0-2.017,1.635-3.652,3.652-3.652
 				h4.497c2.017,0,3.652,1.635,3.652,3.652v4.497C-849.804,323.025-851.439,324.659-853.456,324.659z"/>
 			<text transform="matrix(1 0 0 1 -845.9542 323.1251)" font-family="'Roboto-Light'" font-size="12px">T</text>
@@ -667,7 +667,7 @@
 			<text transform="matrix(1 0 0 1 -741.7101 337.525)" font-family="'Roboto-Light'" font-size="12px">t</text>
 			<text transform="matrix(1 0 0 1 -737.8546 337.525)" font-family="'Roboto-Light'" font-size="12px">s</text>
 		</g>
-		<g id="graylegend-1200_00000013907424041560903950000017055143597020089996_">
+		<g id="graylegend-1200_00000143576686963498658360000010144265053156360381_">
 			<path fill="#B5B3B9" d="M-832.555,787.32h-7.633c-2.017,0-3.652-1.635-3.652-3.652v-7.633c0-2.017,1.635-3.652,3.652-3.652h7.633
 				c2.017,0,3.652,1.635,3.652,3.652v7.633C-828.903,785.685-830.538,787.32-832.555,787.32z"/>
 			<text transform="matrix(1 0 0 1 -824.0298 785.3784)" font-family="'Roboto-Light'" font-size="15.1895px">T</text>
@@ -722,33 +722,33 @@
 			<text transform="matrix(1 0 0 1 -692.0786 803.6059)" font-family="'Roboto-Light'" font-size="15.1895px">t</text>
 			<text transform="matrix(1 0 0 1 -687.1987 803.6059)" font-family="'Roboto-Light'" font-size="15.1895px">s</text>
 		</g>
-		<g id="graylegend-300_00000121969136424836464440000010703936258850248597_">
+		<g id="graylegend-300_00000056419678588960438480000004848211399928726661_">
 			<path fill="#B5B3B9" d="M161.348,145.282h-4.697c-2.017,0-3.652-1.635-3.652-3.652v-4.697c0-2.017,1.635-3.652,3.652-3.652h4.697
 				c2.017,0,3.652,1.635,3.652,3.652v4.697C165,143.647,163.365,145.282,161.348,145.282z"/>
 			<rect x="169.288" y="133.282" fill="none" width="114.547" height="40.624"/>
 			<g display="none">
-				<text transform="matrix(1 0 0 1 169.2882 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">T</text>
-				<text transform="matrix(1 0 0 1 175.8742 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">o</text>
-				<text transform="matrix(1 0 0 1 182.5949 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
-				<text transform="matrix(1 0 0 1 186.4503 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 192.8781 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">l</text>
-				<text transform="matrix(1 0 0 1 195.5675 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
-				<text transform="matrix(1 0 0 1 198.4855 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">r</text>
-				<text transform="matrix(1 0 0 1 202.5226 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
-				<text transform="matrix(1 0 0 1 208.7218 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">p</text>
-				<text transform="matrix(1 0 0 1 215.3722 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">o</text>
-				<text transform="matrix(1 0 0 1 222.0929 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">r</text>
-				<text transform="matrix(1 0 0 1 226.423 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
-				<text transform="matrix(1 0 0 1 230.2785 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 236.3546 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
-				<text transform="matrix(1 0 0 1 239.2726 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 245.7003 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">g</text>
-				<text transform="matrix(1 0 0 1 252.3566 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
-				<text transform="matrix(1 0 0 1 258.7843 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">i</text>
-				<text transform="matrix(1 0 0 1 261.4738 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
-				<text transform="matrix(1 0 0 1 268.0656 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 274.1418 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
-				<text transform="matrix(1 0 0 1 277.9972 143.5474)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 169.2882 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">T</text>
+				<text transform="matrix(1 0 0 1 175.8742 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">o</text>
+				<text transform="matrix(1 0 0 1 182.5949 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 186.4503 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 192.8781 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">l</text>
+				<text transform="matrix(1 0 0 1 195.5675 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 198.4855 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">r</text>
+				<text transform="matrix(1 0 0 1 202.5226 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 208.7218 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">p</text>
+				<text transform="matrix(1 0 0 1 215.3722 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">o</text>
+				<text transform="matrix(1 0 0 1 222.0929 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">r</text>
+				<text transform="matrix(1 0 0 1 226.423 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 230.2785 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 236.3546 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 239.2726 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 245.7003 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">g</text>
+				<text transform="matrix(1 0 0 1 252.3566 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 258.7843 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">i</text>
+				<text transform="matrix(1 0 0 1 261.4738 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
+				<text transform="matrix(1 0 0 1 268.0656 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 274.1418 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 277.9972 143.5475)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
 				<text transform="matrix(1 0 0 1 169.2882 157.9478)" display="inline" font-family="'Roboto-Light'" font-size="12px">k</text>
 				<text transform="matrix(1 0 0 1 175.1652 157.9478)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
 				<text transform="matrix(1 0 0 1 181.757 157.9478)" display="inline" font-family="'Roboto-Light'" font-size="12px">o</text>
@@ -767,17 +767,17 @@
 				<text transform="matrix(1 0 0 1 242.0558 157.9478)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
 				<text transform="matrix(1 0 0 1 248.255 157.9478)" display="inline" font-family="'Roboto-Light'" font-size="12px">d</text>
 				<text transform="matrix(1 0 0 1 254.923 157.9478)" display="inline" font-family="'Roboto-Light'" font-size="12px"> </text>
-				<text transform="matrix(1 0 0 1 169.2882 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">r</text>
-				<text transform="matrix(1 0 0 1 173.3253 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
-				<text transform="matrix(1 0 0 1 179.5246 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
-				<text transform="matrix(1 0 0 1 185.6007 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">p</text>
-				<text transform="matrix(1 0 0 1 192.2511 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">o</text>
-				<text transform="matrix(1 0 0 1 198.9718 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
-				<text transform="matrix(1 0 0 1 205.5636 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">d</text>
-				<text transform="matrix(1 0 0 1 212.2316 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
-				<text transform="matrix(1 0 0 1 218.4308 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
-				<text transform="matrix(1 0 0 1 225.0226 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
-				<text transform="matrix(1 0 0 1 228.8781 172.3472)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 169.2882 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">r</text>
+				<text transform="matrix(1 0 0 1 173.3253 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 179.5246 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 185.6007 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">p</text>
+				<text transform="matrix(1 0 0 1 192.2511 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">o</text>
+				<text transform="matrix(1 0 0 1 198.9718 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
+				<text transform="matrix(1 0 0 1 205.5636 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">d</text>
+				<text transform="matrix(1 0 0 1 212.2316 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 218.4308 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">n</text>
+				<text transform="matrix(1 0 0 1 225.0226 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 228.8781 172.3473)" display="inline" font-family="'Roboto-Light'" font-size="12px">s</text>
 			</g>
 		</g>
 	</g>
@@ -786,47 +786,47 @@
 		<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-opacity="0" d="M99.164,606.793H24.582V531.22
 			c0-1.084,1.452-1.963,3.243-1.963h68.097c1.791,0,3.243,0.879,3.243,1.963V606.793z"/>
 	</g>
-	<g id="rednums_00000076571905599059278460000013792027338146164119_">
+	<g id="rednums_00000097464053892741333970000009098351503111277203_">
 		
-			<text id="rednums_00000150091171611224481650000015537286799954093697_" transform="matrix(1 0 0 1 -1256.5526 931.0013)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="22px">44</text>
+			<text id="rednums_00000050665199463529173950000000853723505788312719_" transform="matrix(1 0 0 1 -1256.5526 931.0013)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="22px">44</text>
 		
-			<text id="rednums_00000093171877443464574010000001883027603588227984_" transform="matrix(1 0 0 1 -1157.118 416.1133)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">44</text>
+			<text id="rednums_00000096037310221132401630000000160057743006612652_" transform="matrix(1 0 0 1 -1157.118 416.1133)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">44</text>
 		
-			<text id="rednums_00000050621956843939710120000008586871922145851836_" transform="matrix(1 0 0 1 -1193.5463 472.1376)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">17</text>
+			<text id="rednums_00000179608787052318273820000009296816078395663540_" transform="matrix(1 0 0 1 -1193.5463 472.1377)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">17</text>
 		
-			<text id="rednums_00000151518552237043938260000005000902930281274242_" transform="matrix(1 0 0 1 -1170.1013 528.1139)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">35</text>
+			<text id="rednums_00000026884871573913942770000006894417222312569245_" transform="matrix(1 0 0 1 -1170.1013 528.1139)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">35</text>
 		
-			<text id="rednums_00000105407578112331424530000001275008568715103670_" transform="matrix(1 0 0 1 -1316.9391 1021.8303)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="22px">17</text>
+			<text id="rednums_00000043455458582938058620000018157768973739980711_" transform="matrix(1 0 0 1 -1316.9391 1021.8303)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="22px">17</text>
 		
-			<text id="rednums_00000080889992295774082490000014228083765371726520_" transform="matrix(1 0 0 1 -1277.4943 1112.593)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="22px">35</text>
+			<text id="rednums_00000152969116521690523160000001667262023542636173_" transform="matrix(1 0 0 1 -1277.4943 1112.593)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="22px">35</text>
 	</g>
-	<g id="middlenums_00000019667543514766097740000011196386148914375338_">
+	<g id="middlenums_00000018954802236225274900000002064564206955039629_">
 		
-			<text id="middlenums_00000007405038707044681410000003296228779984688822_" transform="matrix(1 0 0 1 -1041.2036 931.0013)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">147</text>
+			<text id="middlenums_00000109738646371540683910000012120490951608111541_" transform="matrix(1 0 0 1 -1041.2036 931.0014)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">147</text>
 		
-			<text id="middlenums_00000111881233077670841300000006764606396143094695_" transform="matrix(1 0 0 1 -1216.5056 1020.5164)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">62</text>
+			<text id="middlenums_00000030484021794122312560000003818900549269644196_" transform="matrix(1 0 0 1 -1216.5056 1020.5165)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">62</text>
 		
-			<text id="middlenums_00000043428573357375203640000000207730831033492413_" transform="matrix(1 0 0 1 -1170.1012 1112.5935)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">83</text>
+			<text id="middlenums_00000139990139417670050690000009627922324728528316_" transform="matrix(1 0 0 1 -1170.1012 1112.5936)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">83</text>
 		
-			<text id="middlenums_00000081631422511470703090000000128132154299146888_" transform="matrix(1 0 0 1 -1027.156 416.2737)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">147</text>
+			<text id="middlenums_00000155120665951520850780000013563564648433468575_" transform="matrix(1 0 0 1 -1027.156 416.2737)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">147</text>
 		
-			<text id="middlenums_00000101782189058190840850000006289175780065888904_" transform="matrix(1 0 0 1 -1132.8574 472.2992)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">62</text>
+			<text id="middlenums_00000135683390292586049250000009265937051795761285_" transform="matrix(1 0 0 1 -1132.8574 472.2992)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">62</text>
 		
-			<text id="middlenums_00000145038262975777824290000003037324095341432458_" transform="matrix(1 0 0 1 -1103.3872 528.2746)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">83</text>
+			<text id="middlenums_00000050650692182278352880000002409941600906382982_" transform="matrix(1 0 0 1 -1103.3872 528.2746)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">83</text>
 	</g>
-	<g id="graynums_00000163037824228899029540000011494795026200410256_">
+	<g id="graynums_00000178188988084196257580000002891107132470376631_">
 		
-			<text id="graynums_00000058574342213955069470000009245535200696612017_" transform="matrix(1 0 0 1 -592.0105 931.0011)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">349</text>
+			<text id="graynums_00000002345420138620817710000003688897123334052490_" transform="matrix(1 0 0 1 -592.0105 931.0012)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">349</text>
 		
-			<text id="graynums_00000015321850173496591250000003914184315952543883_" transform="matrix(1 0 0 1 -1242.8196 1020.8304)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">49</text>
+			<text id="graynums_00000063634891736780813390000006748226314910655635_" transform="matrix(1 0 0 1 -1242.8196 1020.8305)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">49</text>
 		
-			<text id="graynums_00000165200306730806702630000011917627094043305344_" transform="matrix(1 0 0 1 -1042.2096 1112.5929)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">144</text>
+			<text id="graynums_00000072994356729661512540000006798634899615739019_" transform="matrix(1 0 0 1 -1042.2096 1112.5929)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="20px">144</text>
 		
-			<text id="graynums_00000132796484272772296260000018373779831222113164_" transform="matrix(1 0 0 1 -749.2532 416.2739)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">349</text>
+			<text id="graynums_00000030460646349354074340000014988665873516977055_" transform="matrix(1 0 0 1 -749.2532 416.2739)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">349</text>
 		
-			<text id="graynums_00000075882138195482539600000001491999537527499965_" transform="matrix(1 0 0 1 -1151.4164 472.2989)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">49</text>
+			<text id="graynums_00000015342490739817112500000007792340247111855262_" transform="matrix(1 0 0 1 -1151.4164 472.2989)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">49</text>
 		
-			<text id="graynums_00000032627880590381262970000013774511640089255049_" transform="matrix(1 0 0 1 -1029.927 528.434)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">144</text>
+			<text id="graynums_00000080920691183055047130000014468723496416813754_" transform="matrix(1 0 0 1 -1029.927 528.434)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="16px">144</text>
 	</g>
 </g>
 <style>

@@ -60,9 +60,6 @@ import scrollama from "scrollama";
         // then add is-active to this step
         steps.forEach(step => step.classList.remove('is-active'));
         el.classList.add('is-active');
-
-        // update graphic based on step
-        sticky.querySelector("p").innerText = el.dataset.step;
       }
 
       function init() {
